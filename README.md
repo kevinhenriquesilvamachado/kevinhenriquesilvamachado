@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @kevinhenriquesilvamachado
-##  👀 ,,programação de games
-- 🌱  html
-- 💞️ I’m looking to collaborate on
-- 📫  kevin.silva.machado@escola.pr.gv.br
+# 👋 Oi, sou Kevin
+##  👀 programação de games
+### 🌱  html
+### 💞️ I’m looking to collaborate on
+### 📫  kevin.silva.machado@escola.pr.gv.br
 
 
 
